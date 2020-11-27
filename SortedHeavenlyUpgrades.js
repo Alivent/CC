@@ -1,5 +1,4 @@
-if(assortPrestige = undefined)
-  var assortPrestige = 0;
+var assortPrestige = 0;
 
 // Basic Heavenly Upgrades
 Game.PrestigeUpgrades[50] = assortPrestige++; // Legacy
